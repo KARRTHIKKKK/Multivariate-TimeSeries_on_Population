@@ -25,7 +25,7 @@ Ensure you have the following software installed:
 
 - Python (>= 3.7)
 - Jupyter Notebook
-- Virtual Environment (optional)
+- Virtual Environment 
 
 ### Clone the Repository
 ```bash
