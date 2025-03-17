@@ -56,7 +56,8 @@ The project requires the following libraries:
 - keras
 - statsmodels
 - scikit-learn
-- shap
+- ShAp
+- LIME
 
 You can install these with:
 ```bash
