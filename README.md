@@ -163,8 +163,7 @@ This project showcases the power of neural networks and classical models in time
 
 ---
 ## License
-This project is my original work, and I hold all rights to it. If you would like to use or contribute to it, please reach out or submit a pull request.
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 ## Contributions
 Feel free to fork and contribute to this project by submitting pull requests.
